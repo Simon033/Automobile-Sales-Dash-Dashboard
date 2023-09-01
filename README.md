@@ -23,7 +23,7 @@ The dashboard consists of two main reports:
     - Average number of vehicles sold by vehicle type using a bar chart.
     - Total expenditure share by vehicle type during the recession using a pie chart.
     - Effect of the unemployment rate on vehicle type and sales using a bar chart.
-[[/sample-images/4-full_page.png]]
+[[sample-images/4-full_page.png]]
 
 ## Dataset
 
