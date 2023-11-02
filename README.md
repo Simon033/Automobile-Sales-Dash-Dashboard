@@ -5,7 +5,6 @@ Created a dashboard using `Dash` and `Plotly` to visualize Automobile Sales data
 ## Objective
 
 The objective was to analyze historical trends in automobile sales during recession and non-recession periods. The goal is to provide insights into how the sales of XYZAutomotives, a company specializing in automotive sales, were affected during times of recession. 
-My personal goal was to better understand recession periods and also demonstrate my dashboarding skills.
 
 
 ## Dashboard Components
